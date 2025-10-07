@@ -8,10 +8,10 @@ To write a program to implement the Decision Tree Classifier Model for Predictin
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
-1. 
-2. 
-3. 
-4. 
+1. Import libraries, create dataset with features and target, then split into training and testing sets.
+2. Initialize Decision Tree Classifier with entropy criterion and train on training data.
+3. Predict churn on test data and evaluate using confusion matrix, classification report, and accuracy score.
+4. Visualize the decision tree and predict churn for a new employee record.
 
 ## Program:
 ```
